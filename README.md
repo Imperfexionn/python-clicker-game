@@ -13,7 +13,7 @@ Built with love, code, and a whole lot of clicks 💥
 3. Unlock new tiers at:
    - 🥉 50 Clicks → **Rookie**
    - 🥈 200 Clicks → **Pro**
-   - 🥇 500 Clicks → **Borealis**
+   - 🥇 500 Clicks → **Skilled**
    - 🏆 1000 Clicks → **Supernatural**
 4. At 1000 clicks, the game ends and you're crowned the master! 👑
 
